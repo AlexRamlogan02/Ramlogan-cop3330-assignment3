@@ -5,8 +5,17 @@ package ex42;
  *  Copyright 2021 Alexandra Ramlogan
  */
 
+import java.io.FileWriter;
+import java.util.List;
+
 public class App {
     public static void main( String[] args ) {
-        
+        List<String> input;
+        FileWriter output;
+
+        try{
+
+        }
+        catch (Exception e){System.out.print("fail\n");}
     }
 }
